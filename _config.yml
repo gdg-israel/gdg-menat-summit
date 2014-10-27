@@ -103,7 +103,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterFeed: "https://www.googleapis.com/plus/v1/activities?query=%23menat+%23gdgsummit&key=AIzaSyBKc7cOtPZ6y1UzmQSadHzGIXzPhIfFFaY"
 
 # Partners Block
 organizersTitle: "Organizers"
