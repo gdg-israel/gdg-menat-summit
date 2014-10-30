@@ -1,4 +1,5 @@
 - 
-  group: "Organizer"
+  group: "Organizers"
   elements: 
     - {name: "Google", description: "Google", link: "http://www.google.com.tr", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Community", description: "GDG Community", link: "http://developers.google.com/groups", imageUrl: "gdg-lviv.svg"}
