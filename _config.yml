@@ -49,7 +49,7 @@ typeoutFallback: "GDG Summit"
 aboutTitle: "About MENAT GDG Summit"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the region carefully crafted for you by Google and GDG community! Awesome speakers and lot's of fun!" }
-  - {title: "Tech talks", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+ - {title: "Tech talks", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
 # Statistic Block
