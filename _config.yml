@@ -6,8 +6,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "MENAT GDG Summit 2014"
-email: "aygul.zagidullina@gmail.com"
-description: "GDG DevFest is a set of events all around the world"
+email: "team@gdgeskisehir.org"
+description: "MENAT GDG Summit is an event organized by Google for GDG members of 20 countries in the MENAT region"
 baseurl: ""
 url: "http://summit.gdg-menat.com/"
 permalink: "/blog/:title"
@@ -19,7 +19,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "Google"
 organizerAlternateName: "Google Inc."
 organizerDescription: "Founded in 1998, Google is a global technology leader focused on improving the ways people connect with information."
-organizerEmail: "aygul.zagidullina@gmail.com"
+organizerEmail: "team@gdgeskisehir.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
@@ -40,10 +40,10 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-+heroTitle: "MENAT GDG Summit <typeout> 2014"
-+eventDate: "December 3-4, 2014"
-+typeoutTextValues: '"", "Season", "Algeria", "Bahrain", "Egypt", "Iran", "Iraq", "Israel", "Jordan", "Kuwait", "Lebanon", "Yemen", "United Arab Emirates", "Libya", "Morocco", "Oman", "Palestine", "Qatar", "Saudi Arabia", "Syria", "Tunisia", "Turkey"'
- typeoutFallback: "GDG Summit"
+heroTitle: "MENAT GDG Summit <typeout> 2014"
+eventDate: "December 3-4, 2014"
+typeoutTextValues: '"", "Season", "Algeria", "Bahrain", "Egypt", "Iran", "Iraq", "Israel", "Jordan", "Kuwait", "Lebanon", "Yemen", "United Arab Emirates", "Libya", "Morocco", "Oman", "Palestine", "Qatar", "Saudi Arabia", "Syria", "Tunisia", "Turkey"'
+typeoutFallback: "GDG Summit"
 
 # About Block
 aboutTitle: "About MENAT GDG Summit"
@@ -115,7 +115,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:aygul.zagidullina@gmail.com", text: "Event organizers"}
+   - {link: "mailto:team@gdgeskisehir.org", text: "Event organizers"}
  -
   title: "FAQ"
   links:
