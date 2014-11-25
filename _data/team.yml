@@ -1,60 +1,66 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: ""
+  surname: "Google"
+  title: ""
+  thumbnailUrl: google.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "Google", title: "Google"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/+google/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Aygul"
+  surname: "Zagidullina"
+  title: "GDG Stuttgart & GDG Ufa Lead"
+  thumbnailUrl: AygulZagidullina.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/+AygulZagidullina"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Ezgi"
+  surname: "Erdem"
+  title: "GDG Eskisehir Lead"
+  thumbnailUrl: EzgiErdem.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/115518622994553674995"}
+- 
+  id: 3
+  name: "Kaan"
+  surname: "Mamikoglu"
+  title: "GDG Eskisehir Lead"
+  thumbnailUrl: KaanMamikoglu.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+KaanMamikoglu"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Saad"
+  surname: "Mafia"
+  title: "GDG Dubai Lead"
+  thumbnailUrl: SaadMafia.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://google.com/+SaadMAFiA"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  id: 5
+  name: "Uri"
+  surname: "Shaked"
+  title: "GDG Tel Aviv Lead"
+  thumbnailUrl: UriShaked.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://google.com/+UriShaked"}
