@@ -71,6 +71,7 @@ Learn more about Sass development from [documentation](https://github.com/gdg-x/
 ### Resource optimizations (optional)
 
 You can optimize images and minify css and javascript automaticaly (for now only on Windows).
+But for Mac OS users available amazing tool - [imageoptim](https://imageoptim.com/). Thanks [@raphaelsavina](https://github.com/raphaelsavina) for link.
 Optimize all images by running this script from `/automation/images/` folder:
 ```bash
     all_image_optimization.bat -d -jtran -pout -pquant -optip -gsicle -svgo
@@ -117,11 +118,21 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [Android DevFest Space Coast](http://gdg-space-coast.github.io/zeppelin/)
 * [DevFest in Baroda](devfest.gdgbaroda.com)
 * [GDG Hi Pic (France)](http://maximemularz.github.io/zeppelin/)
-* [GDG Space Coast DevFest](http://gdg-space-coast.github.io/zeppelin/)
+* [GDG DevFest Córdoba 2014](http://gdgcordoba.github.io/zeppelin/)
+* [GDG DevFest Düsseldorf 2014](http://www.gdg-dus.de/DevFest2014/)
+* [GDG Dublin DevFest 2014](http://gdg-dublin.appspot.com/)
+* [GDG Makerere DevFest 2014](http://gdgmakerere.github.io/)
+* [GDG Busitema DevFest 2014](http://gdgbusitema.github.io/)
+* [DevFest Vienna 2014](http://www.devfest.at/)
+* [Android Wear DevFest](http://devfest.gdgnorthjersey.com/wear2014/)
+* [GDG SLAU DevFest 2014](http://gdgslau.github.io/)
+* [GDG Korea DevFair 2014](http://devfair2014.gdg.kr/)
+* [Lima DevFest](http://limadevfest.com/)
+* [GDG DevFest Kota Kinabalu 2014](http://devfest.gdgkk.info/)
 
 ### Contributors
-* Design and markup: [Oleh Zasadnyy](https://github.com/ozasadnyy)
-* Idea and Jekyll integration: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
+* Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
+* Idea: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
 
 ### Licence
 Project is published under the [MIT licence](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
