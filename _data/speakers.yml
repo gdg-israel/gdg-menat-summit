@@ -20,8 +20,8 @@
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+AndyVolk"}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+  #  - {name: "twitter", link: ""}
+  #  - {name: "github", link: ""}
 -
   id: 5
   name: "Adriana"
@@ -33,7 +33,7 @@
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+AdrianaCerundolo"}
-    - {name: ""}
+#    - {name: ""}
 
 -
   id: 6
@@ -46,7 +46,7 @@
 
   social:
     - {name: "google-plus", link: "https://plus.google.com/114523676440083927755"}
-    - {name: "twitter", link: ""}
+  #  - {name: "twitter", link: ""}
 
 -
   id: 7
@@ -61,7 +61,7 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110418713081470246659/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+AygulZagidullina"}
-    - {name: "site", link: ""}
+  #  - {name: "site", link: ""}
 -
   id: 8
   name: "Kaan"
@@ -89,7 +89,7 @@
     - {abbr: "GDE", title: "Google Developer Expert", url: ""}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+SebastianMauer"}
-    - {name: "site", link: ""}
+#    - {name: "site", link: ""}
 -
   id: 10
   name: "Ezgi"
@@ -103,7 +103,7 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/115518622994553674995"}
-    - {name: "site", link: ""}
+#    - {name: "site", link: ""}
 -
   id: 11
   name: "Mateusz"
@@ -131,4 +131,4 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/111082770720976612303/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+TaherMestiri"}
-    - {name: "site", link: ""}
+#    - {name: "site", link: ""}
