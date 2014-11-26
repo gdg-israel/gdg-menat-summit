@@ -2,7 +2,7 @@
   date: "2014-12-03"
   dateReadable: "December 3"
   tracks: 
-    - {title: "GDG Menat Summit", color: "#90be4e"}
+    - {title: "MENAT GDG Summit", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "08:00",
@@ -73,7 +73,7 @@
   date: "2014-12-04"
   dateReadable: "December 4"
   tracks: 
-    - {title: "GDG Menat Summit", color: "#90be4e"}
+    - {title: "MENAT GDG Summit", color: "#90be4e"}
   timeslots: 
     - {
         startTime: "09:00",
