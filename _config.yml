@@ -40,7 +40,7 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "MENAT GDG Summit; <typeout> 2014"
+heroTitle: "MENAT GDG Summit: <typeout> 2014"
 eventDate: "December 3-4, 2014"
 typeoutTextValues: '"", "Season", "Algeria", "Bahrain", "Egypt", "Iran", "Iraq", "Israel", "Jordan", "Kuwait", "Lebanon", "Yemen", "United Arab Emirates", "Libya", "Morocco", "Oman", "Palestine", "Qatar", "Saudi Arabia", "Syria", "Tunisia", "Turkey"'
 typeoutFallback: "GDG Summit"
