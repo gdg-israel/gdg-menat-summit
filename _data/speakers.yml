@@ -75,7 +75,6 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+AygulZagidullina"}
     - {name: "site", link: ""}
-
 -
   id: 8
   name: "Kaan"
@@ -89,17 +88,28 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+KaanMamikoglu"}
+    - {name: "site", link: "http://www.iamkaan.com"}
+-
+  id: 9
+  name: "Sebastian"
+  surname: "Mauer"
+  company: "GDG Aachen"
+  title: "GDG Aachen co-organizer, Android GDE"
+  bio: ""
+  thumbnailUrl: sebastian.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: ""}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+SebastianMauer"}
     - {name: "site", link: ""}
-
 -
   id: 10
   name: "Ezgi"
   surname: "Erdem"
   company: "GDG Eskisehir"
   title: "GDG Eskisehir Lead"
-  bio: "Ezgi is a B.Sc. graduate in Mathematics and Computer. She's interested in social media, entrepreneurship and everything related to technology.
-
-She was MSP at Microsoft Turkey. Afterwards, she worked at Turkcell Gelecegi Yazanlar as a community manager. Moreover, she is an organizer at GDG Eskişehir, Startup Weekend, WTM, Coderdojo and Stage-co. In addition to creating content of web sites, she also did blogging."
+  bio: "Ezgi is a B.Sc. graduate in Mathematics and Computer. She's interested in social media, entrepreneurship and everything related to technology.\n\nShe was MSP at Microsoft Turkey. Afterwards, she worked at Turkcell Gelecegi Yazanlar as a community manager. Moreover, she is an organizer at GDG Eskişehir, Startup Weekend, WTM, Coderdojo and Stage-co. In addition to creating content of web sites, she also did blogging."
   thumbnailUrl: EzgiErdem.jpg
   rockstar: true
   ribbon:
@@ -107,7 +117,6 @@ She was MSP at Microsoft Turkey. Afterwards, she worked at Turkcell Gelecegi Yaz
   social:
     - {name: "google-plus", link: "https://plus.google.com/115518622994553674995"}
     - {name: "site", link: ""}
-
 -
   id: 11
   name: "Mateusz"
@@ -122,7 +131,6 @@ She was MSP at Microsoft Turkey. Afterwards, she worked at Turkcell Gelecegi Yaz
   social:
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
     - {name: "site", link: ""}
-
 -
   id: 12
   name: "Taher"

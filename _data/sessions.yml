@@ -54,89 +54,89 @@
   title: "Google Community Ecosystem"
   description: "-"
   subtype: presentation
-  speakers: [3]
+  speakers: [7]
   language: en
 -
   id: 005
   title: "Lightning Talks (5min/country)"
   description: "-"
   subtype: presentation
-  speakers: [3]
+  speakers: []
   language: en
 -
   id: 006
   title: "GDG Country Mentors + Growing GDG's"
   description: "-"
   subtype: presentation
-  speakers: [3]
+  speakers: [12]
   language: en
 -
   id: 007
   title: "Android Lollipop"
   description: "-"
   subtype: presentation
-  speakers: [3]
+  speakers: [11]
   language: en
 -
   id: 008
   title: "Android Wear"
   description: "-"
   subtype: presentation
-  speakers: [3]
+  speakers: [8]
   language: en
 -
   id: 009
   title: "Wearables Design Sprint"
   description: "-"
   subtype: workshop
-  speakers: [3]
+  speakers: [6]
   language: en
 -
   id: 010
   title: "Google Startup Launch"
   description: "-"
   subtype: keynote
-  speakers: [3]
+  speakers: []
   language: en
 -
   id: 011
   title: "How to organize a perfect hackathon"
   description: "-"
   subtype: presentation
-  speakers: [3]
+  speakers: [9]
   language: en
 -
   id: 012
   title: "Women Techmakers"
   description: "-"
   subtype: presentation
-  speakers: [3]
+  speakers: [7, 10]
   language: en
 -
   id: 013
   title: "Hacking Cardboard"
   description: "-"
   subtype: presentation
-  speakers: [3]
+  speakers: [9]
   language: en
 -
   id: 014
   title: "Barcamp"
   description: "-"
   subtype: workshop
-  speakers: [3]
+  speakers: [6]
   language: en
 -
   id: 015
   title: "Community training "
   description: "-"
   subtype: workshop
-  speakers: [3]
+  speakers: [6]
   language: en
 -
   id: 016
   title: "Podium Discussion: Future of MENAT GDGs & Strategy for 2015 (+ Q&A) "
   description: "-"
   subtype: keynote
-  speakers: [3]
+  speakers: [3, 4, 5]
   language: en
