@@ -93,7 +93,7 @@ venueFeatures: ["Beautiful cultural place", "Innovative venue", "Located in the 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "gdgsummit", "menat"
+twitterHashTag: "gdgsummit"
 twitterFeed: "https://www.googleapis.com/plus/v1/activities?query=%23menat+%23gdgsummit&key=AIzaSyBKc7cOtPZ6y1UzmQSadHzGIXzPhIfFFaY"
 
 # Partners Block
