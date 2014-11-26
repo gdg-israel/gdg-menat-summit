@@ -31,37 +31,32 @@
   bio: "Community Manager with 6+ years of project management, client services, product management, and online advertising experience. From the worlds of IT to Online Media, I've put my communication skills to good use. I love bringing people together around a common interest and cultivating the magic that unfolds."
   thumbnailUrl: adrianac.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: "https://plus.google.com/+AdrianaCerundolo"}
+    - {name: ""}
 -
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  name: "Daniel"
+  surname: "Franc"
+  company: "GDG/Google"
+  title: "Global Collaboration and Community Strategist"
+  bio: ""
+  thumbnailUrl: danf.jpg
+
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "google-plus", link: "https://plus.google.com/114523676440083927755"}
+    - {name: "twitter", link: ""}
 -
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Aygul"
+  surname: "Zagidullina"
+  company: "GDG Stuttgart & GDG Ufa Lead"
+  title: "Marketing & Community Manager"
+  bio: ""
+  thumbnailUrl: AygulZagidullina.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: ""}
   social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+AygulZagidullina"}
+    - {name: "site", link: ""}
