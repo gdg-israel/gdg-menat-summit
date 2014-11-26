@@ -37,19 +37,6 @@
 
 -
   id: 6
-  name: "Sebastian"
-  surname: "Trzcinski-Clément"
-  company: "Google"
-  title: "Senior program manager at Google"
-  bio: "At Google since 2007, Sebastian is today a senior program manager heading Developer Relations teams across Asia, India, the Middle East and Africa. His mission is to make Google technologies the platform and tools of choice by developers and startups."
-  thumbnailUrl: sebastian.jpg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+Sebastian"}
-    - {name: "site", link: ""}
-
--
-  id: 9
   name: "Daniel"
   surname: "Franc"
   company: "GDG/Google"
