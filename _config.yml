@@ -143,9 +143,9 @@ logisticsMapMobileCenterCoordinates: "41.0241794, 28.9717303"
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Istanbul"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'Airport is easily reachable by public transport. You can either take subway train or look for busses called "HAVATAŞ". More information is available at <a href="http://www.ataturkairport.com/en-EN/Transportation/pages/airporttrasnportation.aspx">airport website</a>.'}
+ - {title: "Public Transit", information: 'You can either take subway train or look for busses called "HAVATAŞ". More information will be provided later.'}
+ - {title: "Hotels", information: 'Istanbul has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
