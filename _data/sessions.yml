@@ -1,50 +1,142 @@
 -
-  id: 307
+  id: 300
+  title: "Registration / Breakfast"
+  place: "Hall"
+  service: true
+-
+  id: 301
+  title: "Breakfast"
+  place: "Hall"
+  service: true
+-
+  id: 302
   title: "Coffee Break"
   place: "Hall"
   service: true
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 303
+  title: "Lunch"
+  place: "Hall"
+  service: true
+-
+  id: 304
+  title: "Gathering Party"
+  place: "-"
+  service: true
+-
+  id: 305
+  title: "Closing / Group Photo"
+  place: "Hall"
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
+  title: "Welcome / Agenda"
+  description: "-"
+  subtype: presentation
+  speakers: [3]
   language: en
-  complexity: "Intermediate"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Beginner"
--
-  id: 003
-  title: "The world is your playground - go global with Google"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
+  title: "Keynote 1: TBA"
+  description: "-"
+  subtype: keynote
   speakers: [4]
   language: en
-  complexity: "Expert"
+-
+  id: 003
+  title: "Keynote 2: Community Success"
+  description: "-"
+  subtype: keynote
+  speakers: [5]
+  language: en
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
+  title: "Google Community Ecosystem"
+  description: "-"
+  subtype: presentation
+  speakers: [3]
+  language: en
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
+  title: "Lightning Talks (5min/country)"
+  description: "-"
+  subtype: presentation
+  speakers: [3]
   language: en
-  complexity: "Expert"
+-
+  id: 006
+  title: "GDG Country Mentors + Growing GDG's"
+  description: "-"
+  subtype: presentation
+  speakers: [3]
+  language: en
+-
+  id: 007
+  title: "Android Lollipop"
+  description: "-"
+  subtype: presentation
+  speakers: [3]
+  language: en
+-
+  id: 008
+  title: "Android Wear"
+  description: "-"
+  subtype: presentation
+  speakers: [3]
+  language: en
+-
+  id: 009
+  title: "Wearables Design Sprint"
+  description: "-"
+  subtype: workshop
+  speakers: [3]
+  language: en
+-
+  id: 010
+  title: "Google Startup Launch"
+  description: "-"
+  subtype: keynote
+  speakers: [3]
+  language: en
+-
+  id: 011
+  title: "How to organize a perfect hackathon"
+  description: "-"
+  subtype: presentation
+  speakers: [3]
+  language: en
+-
+  id: 012
+  title: "Women Techmakers"
+  description: "-"
+  subtype: presentation
+  speakers: [3]
+  language: en
+-
+  id: 013
+  title: "Hacking Cardboard"
+  description: "-"
+  subtype: presentation
+  speakers: [3]
+  language: en
+-
+  id: 014
+  title: "Barcamp"
+  description: "-"
+  subtype: workshop
+  speakers: [3]
+  language: en
+-
+  id: 015
+  title: "Community training "
+  description: "-"
+  subtype: workshop
+  speakers: [3]
+  language: en
+-
+  id: 016
+  title: "Podium Discussion: Future of MENAT GDGs & Strategy for 2015 (+ Q&A) "
+  description: "-"
+  subtype: keynote
+  speakers: [3]
+  language: en
