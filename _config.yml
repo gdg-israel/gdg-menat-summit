@@ -40,7 +40,7 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "MENAT GDG Summit <typeout> 2014"
+heroTitle: "MENAT GDG Summit; <typeout> 2014"
 eventDate: "December 3-4, 2014"
 typeoutTextValues: '"", "Season", "Algeria", "Bahrain", "Egypt", "Iran", "Iraq", "Israel", "Jordan", "Kuwait", "Lebanon", "Yemen", "United Arab Emirates", "Libya", "Morocco", "Oman", "Palestine", "Qatar", "Saudi Arabia", "Syria", "Tunisia", "Turkey"'
 typeoutFallback: "GDG Summit"
@@ -58,7 +58,6 @@ statisticBlock:
  - {count: "150", specialCharacter: "+", info: "attendees", detail: "from MENAT"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from everywhere"}
- - {count: "1,000,000", specialCharacter: "", info: "smiles", detail: "because it's that important to meet people in real life"}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
