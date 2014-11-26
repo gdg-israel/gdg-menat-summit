@@ -34,29 +34,44 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+AdrianaCerundolo"}
     - {name: ""}
+
 -
   id: 6
+  name: "Sebastian"
+  surname: "Trzcinski-Clément"
+  company: "Google"
+  title: "Senior program manager at Google"
+  bio: "At Google since 2007, Sebastian is today a senior program manager heading Developer Relations teams across Asia, India, the Middle East and Africa. His mission is to make Google technologies the platform and tools of choice by developers and startups."
+  thumbnailUrl: sebastian.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+Sebastian"}
+    - {name: "site", link: ""}
+
+-
+  id: 9
   name: "Daniel"
   surname: "Franc"
   company: "GDG/Google"
   title: "Global Collaboration and Community Strategist"
-  bio: ""
+  bio: "I am building global communities and distributed collaborative structures. Since 2007, I've been driving and assisting Google community building efforts across developer, business and educator groups globally to stimulate creation of applications, companies, careers and generally technology adoption towards a positive societal evolution. I'm also working with other companies, esp. large multinationals, on professional development of their managers in the areas of remote collaboration management and leadership in distributed work environments. "
   thumbnailUrl: danf.jpg
 
   social:
     - {name: "google-plus", link: "https://plus.google.com/114523676440083927755"}
     - {name: "twitter", link: ""}
+
 -
   id: 7
   name: "Aygul"
   surname: "Zagidullina"
   company: "GDG Stuttgart & GDG Ufa Lead"
   title: "Marketing & Community Manager"
-  bio: ""
+  bio: "I'm absolutely passionate about innovation, community, and making our world a better place through technology and science. I admire science and have worked 9 years as a research scientist in the filed of computational and quantum chemistry. My inner community manager was realized when I co-organized two Google Developer Groups, TEDxStuttgart and later became a Google+ community manager. Three years ago I dived in the field of technical customer support (Google's official support forums) and fell in love with it."
   thumbnailUrl: AygulZagidullina.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: ""}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110418713081470246659/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+AygulZagidullina"}
     - {name: "site", link: ""}
@@ -67,28 +82,13 @@
   surname: "Mamikoğlu"
   company: "GDG Eskisehir"
   title: "GDG Eskisehir Lead"
-  bio: ""
+  bio: "I am currently a senior in Computer Engineering major at the Anadolu University in Eskisehir, Turkey. I have developed or helped to develop over 20 apps that is published on mobile app stores, both Google Play Store and Apple’s App Store. I am the Google Developer Group (GDG) Eskişehir co-organizer."
   thumbnailUrl: KaanMamikoglu.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: ""}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+KaanMamikoglu"}
-    - {name: "site", link: ""}
-
--
-  id: 9
-  name: "Sebastian"
-  surname: "Trzcinski-Clément"
-  company: "Google"
-  title: "Senior program manager at Google"
-  bio: "At Google since 2007, Sebastian is today a senior program manager heading Developer Relations teams across Asia, India, the Middle East and Africa. His mission is to make Google technologies the platform and tools of choice by developers and startups."
-  thumbnailUrl: sebastian.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: ""}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+Sebastian"}
     - {name: "site", link: ""}
 
 -
@@ -97,11 +97,13 @@
   surname: "Erdem"
   company: "GDG Eskisehir"
   title: "GDG Eskisehir Lead"
-  bio: ""
+  bio: "Ezgi is a B.Sc. graduate in Mathematics and Computer. She's interested in social media, entrepreneurship and everything related to technology.
+
+She was MSP at Microsoft Turkey. Afterwards, she worked at Turkcell Gelecegi Yazanlar as a community manager. Moreover, she is an organizer at GDG Eskişehir, Startup Weekend, WTM, Coderdojo and Stage-co. In addition to creating content of web sites, she also did blogging."
   thumbnailUrl: EzgiErdem.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: ""}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/115518622994553674995"}
     - {name: "site", link: ""}
@@ -112,11 +114,11 @@
   surname: "Herych"
   company: "GDG Kraków"
   title: "GDG Kraków co-organizer, GDE Android"
-  bio: ""
+  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
   thumbnailUrl: MateuszH.png
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: ""}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
     - {name: "site", link: ""}
@@ -129,9 +131,9 @@
   title: "GDG Country Champion"
   bio: ""
   thumbnailUrl: TaherM.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: ""}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/111082770720976612303/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+TaherMestiri"}
     - {name: "site", link: ""}

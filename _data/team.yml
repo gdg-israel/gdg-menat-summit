@@ -1,66 +1,66 @@
-- 
+-
   id: 0
   name: ""
   surname: "Google"
   title: ""
   thumbnailUrl: google.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "Google", title: "Google"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+google/"}
-- 
+-
   id: 1
   name: "Aygul"
   surname: "Zagidullina"
   title: "GDG Stuttgart & GDG Ufa Lead"
   thumbnailUrl: AygulZagidullina.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+AygulZagidullina"}
-- 
+-
   id: 2
   name: "Ezgi"
   surname: "Erdem"
   title: "GDG Eskisehir Lead"
   thumbnailUrl: EzgiErdem.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/115518622994553674995"}
-- 
+-
   id: 3
   name: "Kaan"
   surname: "Mamikoglu"
   title: "GDG Eskisehir Lead"
   thumbnailUrl: KaanMamikoglu.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://google.com/+KaanMamikoglu"}
-- 
+-
   id: 4
   name: "Saad"
-  surname: "Mafia"
+  surname: "Kayyali"
   title: "GDG Dubai Lead"
   thumbnailUrl: SaadMafia.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://google.com/+SaadMAFiA"}
-- 
+-
   id: 5
   name: "Uri"
   surname: "Shaked"
   title: "GDG Tel Aviv Lead"
   thumbnailUrl: UriShaked.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://google.com/+UriShaked"}
