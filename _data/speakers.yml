@@ -60,3 +60,78 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+AygulZagidullina"}
     - {name: "site", link: ""}
+
+-
+  id: 8
+  name: "Kaan"
+  surname: "Mamikoğlu"
+  company: "GDG Eskisehir"
+  title: "GDG Eskisehir Lead"
+  bio: ""
+  thumbnailUrl: KaanMamikoglu.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: ""}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+KaanMamikoglu"}
+    - {name: "site", link: ""}
+
+-
+  id: 9
+  name: "Sebastian"
+  surname: "Trzcinski-Clément"
+  company: "Google"
+  title: "Senior program manager at Google"
+  bio: "At Google since 2007, Sebastian is today a senior program manager heading Developer Relations teams across Asia, India, the Middle East and Africa. His mission is to make Google technologies the platform and tools of choice by developers and startups."
+  thumbnailUrl: sebastian.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: ""}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+Sebastian"}
+    - {name: "site", link: ""}
+
+-
+  id: 10
+  name: "Ezgi"
+  surname: "Erdem"
+  company: "GDG Eskisehir"
+  title: "GDG Eskisehir Lead"
+  bio: ""
+  thumbnailUrl: EzgiErdem.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: ""}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/115518622994553674995"}
+    - {name: "site", link: ""}
+
+-
+  id: 11
+  name: "Mateusz"
+  surname: "Herych"
+  company: "GDG Kraków"
+  title: "GDG Kraków co-organizer, GDE Android"
+  bio: ""
+  thumbnailUrl: MateuszH.png
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: ""}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "site", link: ""}
+
+-
+  id: 12
+  name: "Taher"
+  surname: "Mestiri"
+  company: "GDG Tunis"
+  title: "GDG Country Champion"
+  bio: ""
+  thumbnailUrl: TaherM.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: ""}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+TaherMestiri"}
+    - {name: "site", link: ""}
