@@ -140,3 +140,10 @@
   subtype: keynote
   speakers: [3, 4, 5]
   language: en
+-
+  id: 017
+  title: "Lightning Talks (2min/country)"
+  description: "-"
+  subtype: presentation
+  speakers: []
+  language: en
