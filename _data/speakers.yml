@@ -54,7 +54,7 @@
   surname: "Zagidullina"
   company: "GDG Stuttgart & GDG Ufa Lead"
   title: "Marketing & Community Manager"
-  bio: "I'm absolutely passionate about innovation, community, and making our world a better place through technology and science. I admire science and have worked 9 years as a research scientist in the filed of computational and quantum chemistry. My inner community manager was realized when I co-organized two Google Developer Groups, TEDxStuttgart and later became a Google+ community manager. Three years ago I dived in the field of technical customer support (Google's official support forums) and fell in love with it."
+  bio: "Aygul is absolutely passionate about making our world a better place through technology and science. She is community manager of GDG Stuttgart & GDG Ufa, Google TC for Google+ & Gmail, active member of the global WTM community, translator, quantum chemist, classically trained musician as well as MOOC and citizen science enthusiast."
   thumbnailUrl: AygulZagidullina.jpg
   rockstar: true
   ribbon:
@@ -111,7 +111,7 @@
   company: "GDG Kraków"
   title: "GDG Kraków co-organizer, GDE Android"
   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszH.png
+  thumbnailUrl: MateuszH.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}

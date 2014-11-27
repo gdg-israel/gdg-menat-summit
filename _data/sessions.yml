@@ -52,7 +52,7 @@
 -
   id: 004
   title: "Google Community Ecosystem"
-  description: "-"
+  description: "Curious what TCs, GDGs, GBGs, GEGs, GDEs, GSAs, GMM editors, Google City Experts, Google WTMs, Glass Explorers, YouTube Creators, and Ingress Agents are all about? We’ll talk about Google community ecosystem. The goal is to help you to focus on the most relevant communities to you, based on your personal and professional interests."
   subtype: presentation
   speakers: [7]
   language: en
@@ -101,7 +101,7 @@
 -
   id: 011
   title: "How to organize a perfect hackathon"
-  description: "-"
+  description: "Nobody learns how to code by looking at your slides. Hackathons are where new Rockstars are born. Learn from best practices and start organizing your kick-ass Hackathon."
   subtype: presentation
   speakers: [9]
   language: en
@@ -115,7 +115,7 @@
 -
   id: 013
   title: "Hacking Cardboard"
-  description: "-"
+  description: "Imagination powered by Glue, Paper (and your Smartphone). Learn how to use the CardBoard SDK and OpenGL ES 2 to create awesome VR/AR experiences."
   subtype: presentation
   speakers: [9]
   language: en
