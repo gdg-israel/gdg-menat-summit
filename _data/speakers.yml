@@ -61,7 +61,7 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110418713081470246659/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+AygulZagidullina"}
-  #  - {name: "site", link: ""}
+    - {name: "site", link: "http://aygul.de"}
 -
   id: 8
   name: "Kaan"
@@ -106,17 +106,17 @@
 #    - {name: "site", link: ""}
 -
   id: 11
-  name: "Mateusz"
-  surname: "Herych"
-  company: "GDG Kraków"
-  title: "GDG Kraków co-organizer, GDE Android"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszH.jpg
+  name: "Saad"
+  surname: "Kayyali"
+  company: "GDG Dubai"
+  title: "GDG Dubai Lead"
+  bio: ""
+  thumbnailUrl: SaadMafia.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/118224476608145518667/"}
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "google-plus", link: "https://plus.google.com/+SaadMAFiA"}
     - {name: "site", link: ""}
 -
   id: 12
