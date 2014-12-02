@@ -50,7 +50,7 @@ aboutTitle: "About MENAT GDG Summit"
 aboutBlock:
  - {title: "Talks", image: "conference.jpg", text: "The biggest Google related event in the region carefully crafted for you by Google and GDG community! Awesome speakers and lot's of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops and hands-on experience. Come and tame your favorite technology!" }
-  - {title: "Barcamp & Lightning talks", image: "hackathon.jpg", text: "Stage is yours! Join us for fun and fruitful discussions where you'll have a chance to share your ideas wıth each other!" }
+ - {title: "Barcamp & Lightning talks", image: "hackathon.jpg", text: "Stage is yours! Join us for fun and fruitful discussions where you'll have a chance to share your ideas wıth each other!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
